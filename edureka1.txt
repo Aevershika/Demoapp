@@ -1,1 +1,2 @@
-Hello, edureka
+Hello, edureka...I am learning GitHub
+Thanks for the tutorial
